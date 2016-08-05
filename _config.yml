@@ -9,8 +9,8 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
+  name:           江湖险恶，我绝不轻易透露自己的姓名
+  avatar:         400.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: rouge
 markdown:    kramdown
