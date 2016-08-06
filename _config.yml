@@ -1,6 +1,6 @@
 title:            Sit!
 description:      Describe your website here.
-disqus_shortname: spaceyee-github-io
+disqus_shortname: dishoo
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,9 +9,9 @@ url:
 
 # Owner/author information
 owner:
-  name:           江湖险恶，我绝不轻易透露自己的姓名
+  name:           NULL
   avatar:         400.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "Up!"
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
