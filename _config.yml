@@ -1,4 +1,4 @@
-title:            Site Title
+title:            Sit!
 description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Shanghai
+timezone:    Asia/Chongqing
 future:      true
 highlighter: rouge
 markdown:    kramdown
