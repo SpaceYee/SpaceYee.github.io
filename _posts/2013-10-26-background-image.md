@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post with a Background Image
+title: Test Page
 description: "OK."
 tags: [sample post]
 image:
